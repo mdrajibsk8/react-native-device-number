@@ -21,7 +21,7 @@ Maintaining this project takes time. To help allocate time, you can Buy Me a Cof
 
 ### Visit my Youtube Channel
 
-<a href="https://www.youtube.com/channel/UCNaNqDQWjY9cH8Ttm_-X3DA" target="_blank"><img src="https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/youtube.gif?raw=true" alt="Developers' Sin" width="500" height="150" ></a>
+<a href="https://www.youtube.com/channel/UCNaNqDQWjY9cH8Ttm_-X3DA" target="_blank"><img src="https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/youtube.gif?raw=true" alt="Developers' Sin" width="700" height="100" ></a>
 
 
 ## Usage
