@@ -12,6 +12,8 @@
 ```javascript
 import DeviceNumber from 'react-native-device-number';
 
-// TODO: What to do with the module?
-DeviceNumber;
+DeviceNumber.get().then((res) => {
+    console.log(res)
+})
 ```
+![Alt text](https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/img.png?raw=true)
