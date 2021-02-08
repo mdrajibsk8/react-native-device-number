@@ -8,6 +8,7 @@
     "README.md",
     "android",
     "index.js",
+    "package.json",
     "ios",
     "react-native-device-number.podspec"
   ],
