@@ -2,14 +2,14 @@
 
 ` This library only for Android `
 
-## Installation
+# Installation
 
 ```javascript
 ## NPM
 $ npm install react-native-device-number --save
 
 ## or with yarn
-yarn add react-native-device-number
+$ yarn add react-native-device-number
 
 ```
 
