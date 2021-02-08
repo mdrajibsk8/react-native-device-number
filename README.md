@@ -4,14 +4,14 @@
 
 ## Installation
 
-`
-# NPM
+```javascript
+## NPM
 $ npm install react-native-device-number --save
 
-# or with yarn
+## or with yarn
 yarn add react-native-device-number
 
-`
+```
 
 # Supporting the project
 
