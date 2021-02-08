@@ -1,0 +1,41 @@
+{
+  "name": "react-native-device-number",
+  "title": "React Native Device Number",
+  "version": "1.0.1",
+  "description": "You can get device mobile number in a nice pop-up provied by Google",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-device-number.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-device-number.git",
+    "baseUrl": "https://github.com/github_account/react-native-device-number"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-device-number"
+  ],
+  "author": {
+    "name": "Md. Rajib Sk",
+    "email": "mdrajibsk8@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
