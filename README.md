@@ -21,7 +21,7 @@ Maintaining this project takes time. To help allocate time, you can Buy Me a Cof
 
 ### Visit my Youtube Channel
 
-<a href="https://www.youtube.com/channel/UCNaNqDQWjY9cH8Ttm_-X3DA" target="_blank"><img src="https://yt3.ggpht.com/ytc/AAUvwnjenKtX_wgupocGKuevmbxuAO6uk2dVRYslUPCz=s88-c-k-c0x00ffffff-no-rj" alt="Developers' Sin" width="100" height="100" ></a>
+<a href="https://www.youtube.com/channel/UCNaNqDQWjY9cH8Ttm_-X3DA" target="_blank"><img src="https://media0.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="Developers' Sin" width="100" height="100" ></a>
 
 
 ## Usage
