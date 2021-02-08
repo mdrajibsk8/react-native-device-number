@@ -28,4 +28,4 @@ DeviceNumber.get().then((res) => {
 })
 ```
 <!-- ![Alt text](https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/img.png?raw=true | width=100 | height=250) -->
-<img src="https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/img.png?raw=true" alt="Developers' Sin" style="height: 250px !important;width: 217px !important;" >
+<img src="https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/img.png?raw=true" alt="Developers' Sin" width="200" height="400" >
