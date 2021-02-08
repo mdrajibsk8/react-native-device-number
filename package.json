@@ -6,6 +6,7 @@
   "main": "index.js",
   "files": [
     "README.md",
+    "LICENSE",
     "android",
     "index.js",
     "package.json",
