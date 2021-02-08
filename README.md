@@ -1,5 +1,7 @@
 # react-native-device-number
 
+`This library only for Android`
+
 ## Getting started
 
 `$ npm install react-native-device-number --save`
