@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-number",
   "title": "React Native Device Number",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "You can get device mobile number in a nice pop-up provied by Google",
   "main": "index.js",
   "files": [
@@ -18,8 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-device-number.git",
-    "baseUrl": "https://github.com/github_account/react-native-device-number"
+    "url": "git+https://github.com/mdrajibsk8/react-native-device-number.git",
+    "baseUrl": "https://github.com/mdrajibsk8/react-native-device-number"
   },
   "keywords": [
     "react-native",
