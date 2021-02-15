@@ -1,5 +1,7 @@
 # react-native-device-number
 
+![npm](https://img.shields.io/npm/dt/react-native-device-number?style=flat-square)   ![NPM](https://img.shields.io/npm/l/react-native-device-number?style=flat-square)   ![npm](https://img.shields.io/npm/v/react-native-device-number?style=flat-square)   ![npm collaborators](https://img.shields.io/npm/collaborators/react-native-device-number?style=flat-square)
+
 ` This library only for Android `
 
 # Installation
@@ -19,9 +21,11 @@ Maintaining this project takes time. To help allocate time, you can Buy Me a Cof
 
 <a href="https://www.buymeacoffee.com/mdrajibsk8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200" height="50" ></a>
 
-### Visit my Youtube Channel
+## Video Link
 
-<a href="https://www.youtube.com/channel/UCNaNqDQWjY9cH8Ttm_-X3DA" target="_blank"><img src="https://raw.githubusercontent.com/mdrajibsk8/react-native-device-number/master/youtube.gif?raw=true" alt="Developers' Sin" width="700" height="100" ></a>
+`Please Subscribe to my channel, so don't miss on my future video`
+
+<a href="https://www.youtube.com/watch?v=qRPx_9wnZ3k&ab_channel=Developer%27sSin" target="_blank"><img src="https://github.com/mdrajibsk8/React-Native-Push-Notification-Firebase7/blob/master/de1c91788be0d791135736995109272a.png?raw=true" alt="View Video" width="100" height="100" ></a>
 
 
 ## Usage
