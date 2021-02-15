@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-number",
   "title": "React Native Device Number",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "You can get device mobile number in a nice pop-up provied by Google",
   "main": "index.js",
   "files": [
