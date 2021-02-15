@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-number",
   "title": "React Native Device Number",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "You can get device mobile number in a nice pop-up provied by Google",
   "main": "index.js",
   "files": [
@@ -23,7 +23,10 @@
   },
   "keywords": [
     "react-native",
-    "react-native-device-number"
+    "react-native-device-number",
+    "react-native-mobile-number",
+    "react-native-device-mobile-number",
+    "react-native-get-mobile-number"
   ],
   "author": {
     "name": "Md. Rajib Sk",
