@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.reactlibrary.devicenumber">
+    <application>
+        <activity
+            android:name=".DeviceNumberActivity"
+            android:noHistory="true"
+            android:theme="@android:style/Theme.Dialog">
+        </activity>
+    </application>
+</manifest>
+
