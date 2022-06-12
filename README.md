@@ -13,7 +13,12 @@ $ npm install react-native-device-number --save
 ## or with yarn
 $ yarn add react-native-device-number
 
+** If you are getting any error, while using this package in RN version below 0.66. Then try you use v1.0.5
 ```
+
+## Changelog
+
+#### Added support for gradlew 7, Android 12 & RN - 0.68.2
 
 ## Supporting the project
 
