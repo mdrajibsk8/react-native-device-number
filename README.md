@@ -5,16 +5,16 @@
 `This library only for Android`
 
 # Installation
-
-```javascript
-## NPM
-$ npm install react-native-device-number --save
-
-## or with yarn
-$ yarn add react-native-device-number
-
-** If you are getting any error, while using this package in RN version below 0.66. Then try you use v1.0.5
+#### NPM
+```shell
+npm install react-native-device-number --save
 ```
+
+#### YARN
+```shell
+yarn add react-native-device-number
+```
+**If you are getting any error, while using this package in RN version below 0.66. Then try you use v1.0.5**
 
 ## Changelog
 
