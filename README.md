@@ -19,6 +19,7 @@ yarn add react-native-device-number
 ## Changelog
 
 #### Added support for gradlew 7, Android 12 & RN - 0.68.2
+#### Added support for latest android version 13+
 
 ## Supporting the project
 

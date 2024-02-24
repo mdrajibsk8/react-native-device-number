@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-number",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
