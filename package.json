@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-number",
   "version": "1.0.8",
-  "description": "Test",
+  "description": "react-native-device-number is a helpful utility package for React Native developers, providing a seamless interface to retrieve the device's phone number within their applications. With this package, developers can easily access the device's phone number, facilitating personalized user experiences and enabling features such as phone number verification, contact synchronization, and more. react-native-device-number abstracts away the complexity of interacting with device-specific APIs, offering a simple and consistent method for fetching the phone number across different platforms. Whether you're building a communication app, authentication system, or simply need to identify users uniquely, this package simplifies the process, enhancing the development workflow and improving app functionality.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
