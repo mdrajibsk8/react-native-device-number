@@ -3,7 +3,10 @@
 ![npm](https://img.shields.io/npm/dt/react-native-device-number?style=flat-square) ![NPM](https://img.shields.io/npm/l/react-native-device-number?style=flat-square) ![npm](https://img.shields.io/npm/v/react-native-device-number?style=flat-square) ![npm collaborators](https://img.shields.io/npm/collaborators/react-native-device-number?style=flat-square)
 
 `This library only for Android`
-`react-native-device-number is a helpful utility package for React Native developers, providing a seamless interface to retrieve the device's phone number within their applications. With this package, developers can easily access the device's phone number, facilitating personalized user experiences and enabling features such as phone number verification, contact synchronization, and more. react-native-device-number abstracts away the complexity of interacting with device-specific APIs, offering a simple and consistent method for fetching the phone number across different platforms. Whether you're building a communication app, authentication system, or simply need to identify users uniquely, this package simplifies the process, enhancing the development workflow and improving app functionality.`
+
+```shell
+react-native-device-number is a helpful utility package for React Native developers, providing a seamless interface to retrieve the device's phone number within their applications. With this package, developers can easily access the device's phone number, facilitating personalized user experiences and enabling features such as phone number verification, contact synchronization, and more. react-native-device-number abstracts away the complexity of interacting with device-specific APIs, offering a simple and consistent method for fetching the phone number across different platforms. Whether you're building a communication app, authentication system, or simply need to identify users uniquely, this package simplifies the process, enhancing the development workflow and improving app functionality.
+```
 
 # Installation
 #### NPM
